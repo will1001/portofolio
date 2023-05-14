@@ -22,12 +22,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <Head>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap"
-          rel="stylesheet"
-        />
-      </Head>
       <body className={inter.className}>{children}</body>
     </html>
   );
