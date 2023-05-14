@@ -22,7 +22,7 @@ export default function Home() {
           <div className="flex items-center justify-center ">
             <div className="text-4xl w-[420px] space-y-6 z-10">
               <span>Hai! </span>
-              <span className="font-bold">Im Wili</span>
+              <span className="font-bold">I&rsquo;m Wili</span>
               <br />
               <span className="font-bold">Full Stack </span>
               <span>Developer </span>
