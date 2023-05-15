@@ -18,7 +18,7 @@ export const LandingPageLayout = () => {
       />
       <div className="grid md:grid-cols-2">
         <div className="flex items-center justify-center ">
-          <div className="text-4xl w-[420px] space-y-6 z-10 xs:p-5 ">
+          <div className="text-4xl w-[420px] space-y-6 z-10 xs:p-8 ">
             <span>Hai! </span>
             <span className="font-bold">I&rsquo;m Wili</span>
             <br />
@@ -31,7 +31,7 @@ export const LandingPageLayout = () => {
             </p>
           </div>
         </div>
-        <div className="flex flex-col items-end justify-end xs:p-5 relative">
+        <div className="flex flex-col items-end justify-end xs:p-7 relative">
           <Image
             className="h-[500px]"
             src="/circle.png"
